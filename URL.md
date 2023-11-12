@@ -34,3 +34,4 @@
 13. [Kar](https://github.com/kannadiga/fonts/archive/5f542c8/kannadiga-5f542c899da12e78bc517b1c5570496f1c93f43c.tar.gz)
 14. [Gubbi](http://deb.debian.org/debian/pool/main/f/fonts-gubbi/fonts-gubbi_1.3.orig.tar.xz)
 15. [Navilu](http://deb.debian.org/debian/pool/main/f/fonts-navilu/fonts-navilu_1.2.orig.tar.gz)
+16. [NLCI-Kaveri](https://github.com/nlci/knda-font-badami/archive/5d06bea/nlci_kaveri-5d06bea25a5c51bf726d7d122112a1e8d103bb4btar.gz)
