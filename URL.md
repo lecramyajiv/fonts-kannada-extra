@@ -1,7 +1,7 @@
 # Homepage of Fonts
 
 1. New Life Computer Institute [NLCI](https://github.com/nlci)
-2. Google/EkType [EkType](https://ektype.in)..........
+2. Google/EkType [EkType](https://ektype.in)
 3. Google/Tiro [Tiro](http://www.tiro.com/)
 4. Google/Akaya-kanadaka [Akaya](https://github.com/vaishnavimurthy/Akaya-Kanadaka)
 5. Google/padayakke [Padayakke](https://github.com/DunwichType/Padyakke_Libre)

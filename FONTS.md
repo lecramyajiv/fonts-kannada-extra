@@ -26,4 +26,3 @@
 1. Badami
 2. Kaveri
 
-badami
