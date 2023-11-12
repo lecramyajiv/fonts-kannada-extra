@@ -19,11 +19,11 @@
 
 # Download URL
 
-1. [NLCI](https://github.com/nlci/knda-font-badami/archive/refs/heads/master.zip)
+1. [NLCI](https://github.com/nlci/knda-font-badami/releases/download/v0.600/nlci-knda-badami-0.600.tar.xz)
 2. [Anek](https://github.com/EkType/Anek/releases/download/1.000/Ek-Type-Anek-Variable-1.002.zip)
 3. [Baloo2](https://github.com/EkType/Baloo2/releases/download/1.640/Baloo2_1.640.zip)
-4. [Tiro](https://github.com/TiroTypeworks/Indigo/archive/refs/heads/main.zip)
-5. [Akaya Kanadaka](https://github.com/vaishnavimurthy/Akaya-Kanadaka/archive/refs/heads/master.zip)
+4. [Tiro](https://github.com/TiroTypeworks/Indigo/archive/c5f23cb/Tiro-c5f23cb391c99bb3e5c3308568c31319e2e7fbd1.tar.gz)
+5. [Akaya Kanadaka](https://github.com/vaishnavimurthy/Akaya-Kanadaka/archive/fef8598/Akaya-Kanadaka-fef85980e9f50f142e1f87bdff10d00633bc2e25.tar.gz)
 6. [Padayakke](https://github.com/DunwichType/Padyakke_Libre/archive/refs/heads/master.zip)
 7. [Benne](https://github.com/googlefonts/Benne/archive/refs/heads/main.zip)
 8. [Hubbali](https://github.com/erinmclaughlin/Hubballi/archive/refs/heads/master.zip)
