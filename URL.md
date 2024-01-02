@@ -14,7 +14,7 @@
 12. Govt.of Karntaka [Kar](https://kanaja.karnataka.gov.in/softwares/)
 13. Debian/Gubbi [Gubbi](https://packages.debian.org/unstable/fonts/fonts-gubbi)
 14. Debian/Navilu [Navilu](https://packages.debian.org/unstable/fonts/fonts-navilu)
-
+15. OpenSuse/Sampige [Sampige](https://software.opensuse.org/download/package?package=indic-fonts&project=openSUSE%3ALeap%3A15.0)
 
 
 # Download URL
@@ -35,3 +35,4 @@
 14. [Gubbi](http://deb.debian.org/debian/pool/main/f/fonts-gubbi/fonts-gubbi_1.3.orig.tar.xz)
 15. [Navilu](http://deb.debian.org/debian/pool/main/f/fonts-navilu/fonts-navilu_1.2.orig.tar.gz)
 16. [NLCI-Kaveri](https://github.com/nlci/knda-font-badami/archive/5d06bea/nlci_kaveri-5d06bea25a5c51bf726d7d122112a1e8d103bb4btar.gz)
+17. [Sampige](https://download.opensuse.org/repositories/openSUSE:/Leap:/15.0/standard/noarch/indic-fonts-20160512-lp150.1.40.noarch.rpm)
